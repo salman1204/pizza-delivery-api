@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/salman/Desktop/Pizza Delivery DRF/venv/bin/python3" "$0" "$@"
-' '''
+#!/home/salman/Desktop/pizza-delivery-api/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
